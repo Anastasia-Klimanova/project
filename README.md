@@ -1,5 +1,3 @@
-[Вопросы ревьюеру](https://disk.yandex.ru/i/E5-ojeXrgiAWEw)
-
 
 # Описание проектов
 
